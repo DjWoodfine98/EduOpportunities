@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Interests - Scholarship Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>My Interests</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Passions and Hobbies</h2>
+        <p>
+            Besides my dedication to the world of scholarships, I have a variety of interests that keep me
+            engaged and
+            inspired.
+        </p>
+        <ul>
+            <li>Reading - I'm an avid reader with a particular fondness for [Your Favorite Genre].</li>
+            <li>Travel - Exploring new places and experiencing different cultures fuels my curiosity.</li>
+            <li>Photography - Capturing moments and telling stories through images is one of my creative outlets.
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Get in Touch</h2>
+        <p>
+            If you share similar interests or have scholarship opportunities to share, feel free to connect with me.
+            Let's collaborate and make education accessible to all!
+        </p>
+        <p>Email: [Your Email]</p>
+        <p>Social Media: [Your Social Media Handles]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Scholarship Hub</p>
+    </footer>
+</body>
+
+</html>

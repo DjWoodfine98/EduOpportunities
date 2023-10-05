@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scholarship Hub</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to Scholarship Hub</h1>
+        <nav>
+            <ul>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="interests.html">My Interests</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Featured Scholarships</h2>
+        <ul>
+            <li><a href="https://www.example1.com" target="_blank">Example Scholarship 1</a></li>
+            <li><a href="https://www.example2.com" target="_blank">Example Scholarship 2</a></li>
+            <li><a href="https://www.example3.com" target="_blank">Example Scholarship 3</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Latest Opportunities</h2>
+        <ul>
+            <li><a href="https://www.latest1.com" target="_blank">Latest Opportunity 1</a></li>
+            <li><a href="https://www.latest2.com" target="_blank">Latest Opportunity 2</a></li>
+            <li><a href="https://www.latest3.com" target="_blank">Latest Opportunity 3</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Scholarship Hub</p>
+    </footer>
+</body>
+
+</html>
