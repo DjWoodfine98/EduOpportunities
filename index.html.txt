@@ -21,18 +21,18 @@
     <section>
         <h2>Featured Scholarships</h2>
         <ul>
-            <li><a href="https://www.example1.com" target="_blank">Example Scholarship 1</a></li>
-            <li><a href="https://www.example2.com" target="_blank">Example Scholarship 2</a></li>
-            <li><a href="https://www.example3.com" target="_blank">Example Scholarship 3</a></li>
+            <li><a href="https://app.bold.org/scholarships/environmental-scholarship-fund/" target="_blank">Example Scholarship 1</a></li>
+            <li><a href="https://www.hacu.net/hacu/scholarships.asp" target="_blank">Example Scholarship 2</a></li>
+            <li><a href="https://nsbe.smapply.io/" target="_blank">Example Scholarship 3</a></li>
         </ul>
     </section>
 
     <section>
         <h2>Latest Opportunities</h2>
         <ul>
-            <li><a href="https://www.latest1.com" target="_blank">Latest Opportunity 1</a></li>
-            <li><a href="https://www.latest2.com" target="_blank">Latest Opportunity 2</a></li>
-            <li><a href="https://www.latest3.com" target="_blank">Latest Opportunity 3</a></li>
+            <li><a href="https://boards.greenhouse.io/duolingo/jobs/6955600002" target="_blank">Latest Opportunity 1</a></li>
+            <li><a href="https://boards.greenhouse.io/epicgames/jobs/4966249004?utm_source=Simplify&ref=Simplify" target="_blank">Latest Opportunity 2</a></li>
+            <li><a href="https://www.twitch.tv/jobs/careers/6948898002/" target="_blank">Latest Opportunity 3</a></li>
         </ul>
     </section>
 
