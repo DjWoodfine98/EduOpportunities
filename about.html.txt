@@ -21,12 +21,12 @@
     <section>
         <h2>Personal Information</h2>
         <p>
-            Hello, I'm [Your Name], the creator of Scholarship Hub. I am a passionate advocate for education and
+            Hello, I am Devon Woodfine, the creator of EduOpportunities. I am a passionate advocate for education and
             believe
             in the power of scholarships to transform lives.
         </p>
         <p>
-            Currently, I am pursuing [Your Degree] at [Your University]. My goal is to make scholarship information
+            Currently, I am pursuing a Computer Science degree at Cal Poly Pomona. My goal is to make scholarship information
             easily accessible to students seeking financial assistance for their education.
         </p>
     </section>
@@ -34,7 +34,7 @@
     <section>
         <h2>My Journey</h2>
         <p>
-            I started Scholarship Hub as a way to share valuable scholarship opportunities and help others navigate
+            I started EduOpportunities as a way to share valuable scholarship opportunities and help others navigate
             the
             often overwhelming process of finding financial support for their academic journey.
         </p>
@@ -44,7 +44,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Scholarship Hub</p>
+        <p>&copy; 2023 EduOpportunities</p>
     </footer>
 </body>
 
