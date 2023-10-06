@@ -26,9 +26,9 @@
             inspired.
         </p>
         <ul>
-            <li>Reading - I'm an avid reader with a particular fondness for [Your Favorite Genre].</li>
+            <li>Reading - I'm an avid reader with a particular fondness for non-fiction in foreign countries.</li>
             <li>Travel - Exploring new places and experiencing different cultures fuels my curiosity.</li>
-            <li>Photography - Capturing moments and telling stories through images is one of my creative outlets.
+            <li>Music - Some of my favorite genres are R&B, dancehall, reggae, grime,.
             </li>
         </ul>
     </section>
@@ -39,8 +39,8 @@
             If you share similar interests or have scholarship opportunities to share, feel free to connect with me.
             Let's collaborate and make education accessible to all!
         </p>
-        <p>Email: [Your Email]</p>
-        <p>Social Media: [Your Social Media Handles]</p>
+        <p>Email: djwoodfine@cpp.edu</p>
+        <p>Social Media: cjwilliamson98</p>
     </section>
 
     <footer>
